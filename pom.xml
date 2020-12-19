@@ -172,7 +172,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.10</version>
+            <version>1.18.16</version>
             <scope>compile</scope>
         </dependency>
         <!-- 3rd party plugins to be installed to local jenkins for testing, scope must be 'test' -->
